@@ -10,7 +10,7 @@ The folder contains practical3 codes.
 
 * ./out
 
-The value of the sum before the loop is :1.732051   /
+The value of the sum before the loop is :1.732051  
 I am even and here's the value of the sum: 1.907028
 I am even and here's the value of the sum: 2.795581
 I am even and here's the value of the sum: 4.456137
