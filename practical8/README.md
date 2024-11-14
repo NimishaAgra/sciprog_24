@@ -1,14 +1,15 @@
-#Practical 8 
+# Practical 8
 
-This folder contains practical 8 codes. 
+This folder contains practical 8 codes.
 
-## Compile :
+### Compile :
 
-gcc gcd.c -o gcd 
+* gcc gcd.c -o gcd 
 
-## Execute :
+# Execute 
 
-* ./gcd 
+* ./gcd
+
 
 Please enter two positive integers:
 6 9
