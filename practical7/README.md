@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Practical 7
 
 This folder contains practical 7 codes. 
@@ -10,6 +11,20 @@ This folder contains practical 7 codes.
 ## Execute :
 
 *  ./finde
+=======
+# Practical 7
+
+This folder contains practical 7 codes.
+
+### Compile :
+
+* gcc finde.c -o finde -lm 
+* gcc pointer.c -o pointer
+
+# Execute 
+
+* ./finde
+>>>>>>> practical7
 
 Enter the required polynomial order
 32
@@ -45,8 +60,15 @@ Enter the required polynomial order
 0.0000000007095791
 0.0000000013546510
 -0.0000000004656613
+<<<<<<< HEAD
 
 * ./pointer 
+=======
+ e is estimated as 2.7182818325, with difference 3.993267e-09
+
+
+ * ./pointer
+>>>>>>> practical7
 
  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
 
